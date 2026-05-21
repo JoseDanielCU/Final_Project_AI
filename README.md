@@ -122,8 +122,8 @@ Link: (pendiente)
 
 | Nombre | Correo | Contribucion |
 |--------|--------|-------------|
-| Nombre 1 | correo1@eafit.edu.co | Arquitectura del agente, herramientas |
-| Nombre 2 | correo2@eafit.edu.co | UI Streamlit, integracion, informe |
+| Camilo Andres Melo | cameloa@eafit.edu.co | Arquitectura del agente, herramientas |
+| Jose Daniel Castaneda | jdcastaneu@eafit.edu.co | UI Streamlit, integracion, informe |
 
 ---
 
