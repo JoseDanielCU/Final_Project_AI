@@ -114,7 +114,7 @@ Final_Project_AI/
 
 ## Video demo
 
-Link: (pendiente)
+Link: [Video de YouTube](https://youtu.be/p7XQql4mmbE)
 
 ---
 
